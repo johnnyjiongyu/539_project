@@ -68,11 +68,15 @@ a:hover, .work_content a:hover, .song a:hover {
 main {
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
     height: 100vh;
     margin: 0 55px;
     margin-top: 40px;
+}
+
+.main_center {
+    justify-content: center;
+    margin-top: 0;
 }
 
 .main_img {
