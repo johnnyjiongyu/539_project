@@ -267,4 +267,9 @@ p {
         text-align: left;
     }
 
+    .main_center_web {
+        justify-content: center;
+        margin-top: 0;
+    }
+
 }
