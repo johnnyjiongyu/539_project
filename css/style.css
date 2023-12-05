@@ -184,7 +184,7 @@ p {
 @media screen and (min-width: 768px) {
     /* style header */
     .hamburger_menu {
-        display: none;
+        right: -500px;
     }
 
     header {
