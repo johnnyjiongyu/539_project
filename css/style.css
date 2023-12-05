@@ -52,13 +52,6 @@ a:hover, .work_content a:hover, .song a:hover {
     color: #527853;
 }
 
-/* .item {
-    display: flex;
-    align-items: center;
-    line-height: 10;
-    text-align: left;
-} */
-
 .icon {
     width: 24px;
     margin-right: 10px;
@@ -210,8 +203,8 @@ p {
         box-shadow: 5px 0 5px #B5B5B5;
     }
 
-    .item {
-        margin-left: 40px;
+    .nav_list a {
+        margin-left: 25px;
     }
 
 
