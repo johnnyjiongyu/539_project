@@ -153,6 +153,11 @@ p {
     background: #E4ECF5;
 }
 
+.work_img {
+    justify-self: start;
+    width: 400px;
+}
+
 /* style music page*/
 .song {
     grid-column: 2/3;
